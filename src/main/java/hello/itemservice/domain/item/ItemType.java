@@ -9,4 +9,3 @@ public enum ItemType {
         this.description = description;
     }
 }
-dd
